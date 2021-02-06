@@ -1,3 +1,3 @@
 # MyProject
-שם הפרויקט - שש בש
-העתקה
+
+my project
